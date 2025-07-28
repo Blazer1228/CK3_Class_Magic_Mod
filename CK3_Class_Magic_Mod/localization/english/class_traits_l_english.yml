@@ -1,6 +1,0 @@
-l_english:
- choose_class_decision:0 "Choose Your Class"
- choose_class_decision_desc:0 "Select a class to begin your journey."
- choose_class_decision_confirm:0 "Confirm"
- trait_mage_1:0 "Mage Initiate"
- trait_mage_1_desc:0 "A budding spellcaster who has taken their first steps into the arcane."
