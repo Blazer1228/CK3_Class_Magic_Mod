@@ -1,3 +1,0 @@
-namespace = class_magic
-
-# Decisions will go here.
